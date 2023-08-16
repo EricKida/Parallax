@@ -1,0 +1,32 @@
+[
+    {
+        "nomePonto": "EcoPonto Boqueirão",
+        "horario": "Segunda a Sexta-Feira: 10h às 17h",
+        "numeroContato": "133333-3333",
+        "linkEndereco": "https://www.google.com.br/maps/place/R.+Guanabara,+55-5+-+Boqueir%C3%A3o,+Praia+Grande+-+SP,+11700-030/@-24.0046546,-46.4130914,19z/data=!3m1!4b1!4m6!3m5!1s0x94ce1db2dd6e1f33:0x8c770b3f03ec71d!8m2!3d-24.0046546!4d-46.4124477!16s%2Fg%2F11c66q4_jt?entry=ttu"
+    },
+    {
+        "nomePonto": "EcoPonto Guilhermina",
+        "horario": "Segunda a Sexta-Feira: 10h às 17h",
+        "numeroContato": "134444-4444",
+        "linkEndereco": "https://www.google.com.br/maps/place/R.+Guanabara,+55-5+-+Boqueir%C3%A3o,+Praia+Grande+-+SP,+11700-030/@-24.0046546,-46.4130914,19z/data=!3m1!4b1!4m6!3m5!1s0x94ce1db2dd6e1f33:0x8c770b3f03ec71d!8m2!3d-24.0046546!4d-46.4124477!16s%2Fg%2F11c66q4_jt?entry=ttu"
+    },
+    {
+        "nomePonto": "EcoPonto Samambaia",
+        "horario": "Segunda a Sexta-Feira: 10h às 17h",
+        "numeroContato": "137777-7777",
+        "linkEndereco": "https://www.google.com.br/maps/place/R.+Guanabara,+55-5+-+Boqueir%C3%A3o,+Praia+Grande+-+SP,+11700-030/@-24.0046546,-46.4130914,19z/data=!3m1!4b1!4m6!3m5!1s0x94ce1db2dd6e1f33:0x8c770b3f03ec71d!8m2!3d-24.0046546!4d-46.4124477!16s%2Fg%2F11c66q4_jt?entry=ttu"
+    },
+    {
+        "nomePonto": "EcoPonto Maracanã",
+        "horario": "Segunda a Sexta-Feira: 10h às 17h",
+        "numeroContato": "136666-6666",
+        "linkEndereco": "https://www.google.com.br/maps/place/R.+Guanabara,+55-5+-+Boqueir%C3%A3o,+Praia+Grande+-+SP,+11700-030/@-24.0046546,-46.4130914,19z/data=!3m1!4b1!4m6!3m5!1s0x94ce1db2dd6e1f33:0x8c770b3f03ec71d!8m2!3d-24.0046546!4d-46.4124477!16s%2Fg%2F11c66q4_jt?entry=ttu"
+    },
+    {
+        "nomePonto": "EcoPonto Caiçara",
+        "horario": "Segunda a Sexta-Feira: 10h às 17h",
+        "numeroContato": "135555-5555",
+        "linkEndereco": "https://www.google.com.br/maps/place/R.+Guanabara,+55-5+-+Boqueir%C3%A3o,+Praia+Grande+-+SP,+11700-030/@-24.0046546,-46.4130914,19z/data=!3m1!4b1!4m6!3m5!1s0x94ce1db2dd6e1f33:0x8c770b3f03ec71d!8m2!3d-24.0046546!4d-46.4124477!16s%2Fg%2F11c66q4_jt?entry=ttu"
+    }
+]
